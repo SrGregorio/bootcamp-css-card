@@ -9,4 +9,4 @@
 
 
 ## • Live URL
-#### https://www.drupalbootcamp.netlify.app
+#### https://drupalbootcamp.netlify.app/
